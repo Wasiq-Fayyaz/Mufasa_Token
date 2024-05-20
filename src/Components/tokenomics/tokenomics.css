@@ -1,0 +1,186 @@
+.tokenomics {
+  display: flex;
+  flex-direction: column;
+  margin-top: 140px;
+}
+@media(min-width:1280px){
+  .tokenomics {
+ 
+    margin-top: 120px;
+  }
+}
+
+.card--container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+@media (min-width: 1024px) {
+  .card--container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+}
+
+.tokenomics--card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 200px;
+  height: 200px;
+  background-color: #001524;
+  border-radius: 20px;
+  border: 2px solid #edbd2c;
+  transition: background-color 0.3s ease-in-out, border 0.3s ease-in-out,
+    border-top 0.3s ease-in-out, border-bottom 0.3s ease-in-out;
+  cursor: pointer;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .tokenomics--card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 250px;
+    height: 250px;
+    background-color: #001524;
+    border-radius: 20px;
+    border: 2px solid #edbd2c;
+    transition: background-color 0.3s ease-in-out, border 0.3s ease-in-out,
+      border-top 0.3s ease-in-out, border-bottom 0.3s ease-in-out;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .tokenomics--card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 300px;
+    height: 250px;
+    background-color: #001524;
+    border-radius: 10px;
+    border: 2px solid #edbd2c;
+    transition: background-color 0.3s ease-in-out, border 0.3s ease-in-out,
+      border-top 0.3s ease-in-out, border-bottom 0.3s ease-in-out;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .tokenomics--card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+    gap: 20px;
+    width: 270px;
+    height: 270px;
+    background-color: #001524;
+    border-radius: 10px;
+    border: 2px solid #edbd2c;
+    transition: background-color 0.3s ease-in-out, border 0.3s ease-in-out,
+      border-top 0.3s ease-in-out, border-bottom 0.3s ease-in-out;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.tokenomics--card:hover {
+  background-color: black;
+  border: none;
+  border-top: 4px solid #edbd2c;
+  border-bottom: 4px solid #edbd2c;
+}
+
+.card--line {
+  height: 70px;
+  background-color: #edbd2c;
+  width: 10px;
+}
+
+@media (min-width: 768px) {
+  .card--line {
+    height: 70px;
+    background-color: #edbd2c;
+    width: 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .card--line {
+    width: 110px;
+    background-color: #edbd2c;
+    height: 10px;
+  }
+}
+
+.tokenomics--card p {
+  color: #edbd2c;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.tokenomics--card img {
+  object-fit: contain;
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  
+}
+
+
+
+
+@media (min-width: 768px) {
+  .tokenomics--card img {
+  
+    object-fit: contain;
+  }
+  .tokenomics--card p {
+    font-size: 1.1rem;
+  }
+  
+
+}
+
+@media (min-width: 1080px) {
+  .tokenomics--card img {
+
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+  }
+  .tokenomics--card p {
+    font-size: 1.2rem;
+  }
+  
+  .tokenomics--card svg {
+    width: 130px;
+    height: 130px;
+  
+  }
+}
+
+

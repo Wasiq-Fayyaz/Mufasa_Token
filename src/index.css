@@ -1,0 +1,24 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+@font-face {
+  font-family: 'Trajan--Bold';
+  src: url('../src/CustomFonts/trajan_pro_bold.ttf') format('ttf');
+ 
+}
+
+@font-face {
+  font-family: 'Trajan--Regular';
+  src: url('../src/CustomFonts/trajan_pro_regular.ttf') 
+}
+
