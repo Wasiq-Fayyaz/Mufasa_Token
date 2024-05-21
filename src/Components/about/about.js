@@ -8,7 +8,7 @@ export default function About() {
     <section className="about">
       <div className="section--heading">
         <h3>HIGHLIGHTS</h3>
-        <p>ABOUT MUFASA MEME TOKEN</p>
+        <p>ABOUT MUFASA</p>
       </div>
 
       <div className="about--2">
