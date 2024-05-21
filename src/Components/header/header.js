@@ -95,7 +95,8 @@ export default function Header() {
           Before the legend, there was the lion. Discover the untold story of Mufasa
           </p>
           <p className="punch--line--desc">
-          In the heart of the African savannah, where the sun rises and sets in a symphony of colors, lies the majestic Pride Lands. Here, amid the vast expanse of wilderness, a king rules with wisdom and strength
+          In the heart of the African savannah, where the sun rises and sets in a symphony of colors, lies the majestic Pride Lands. Here, amid the vast expanse of wilderness, a king rules with wisdom and strength.
+          Witness the unparalleled majesty and wisdom of Mufasa, the noble king who rules the Pride Lands with a heart full of courage and a roar that echoes through eternity.
           </p>
         </div>
 
