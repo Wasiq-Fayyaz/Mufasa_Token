@@ -15,7 +15,7 @@ export default function Tokenomics() {
       <div className="card--container">
         <div className="tokenomics--card">
           <img src={logo} alt="picture of logo" className="token--mufasa"></img>
-          <p>$MMT</p>
+          <p>$MLK</p>
         </div>
         <div className="card--line"></div>
         <div className="tokenomics--card">
@@ -24,7 +24,7 @@ export default function Tokenomics() {
           alt="404">
           </img>
           <p>
-            Buy/Sell
+            Buy/Sell Tax
             <br />
             5/5
           </p>
@@ -38,7 +38,7 @@ export default function Tokenomics() {
 
           <p>
             Supply <br />
-            1,000,000,000
+            1,000,000
           </p>
         </div>
         <div className="card--line"></div>
