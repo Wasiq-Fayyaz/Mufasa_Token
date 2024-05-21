@@ -54,17 +54,6 @@ export default function Roadmap() {
               </ul>
             </div>
           </div>
-          <div className="card--line">
-          </div>
-          <div className="road--map--card">
-            <div className="road--map--text">
-              <h5>Phase IV</h5>
-              <ul>
-                <li><span>Adding a Utility</span></li>
-                <li><span>More Surpirses to Come!</span></li>
-              </ul>
-            </div>
-          </div>
         </div>
       
       </div>
