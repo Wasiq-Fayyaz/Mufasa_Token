@@ -27,7 +27,7 @@ export default function Contact() {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("#MufasaMemeToken")
+                    .typeString("#MufasaLionKing")
                     .pauseFor(1500)
                     .deleteAll()
                     .typeString("#SvannahRevolution")
@@ -36,7 +36,7 @@ export default function Contact() {
               />
             </div>
             <p>
-            Don't Miss Out, The roar of Mufasa Token is growing louder by the day, and the crypto jungle is buzzing with excitement! Secure your place in the pride and embark on a journey like no other. With Mufasa Token, the sky's the limit as we pave the way for a brighter, bolder future in the world of decentralized finance.
+            Don't Miss Out The roar of Mufasa, Token is growing louder by the day, and the crypto jungle is buzzing with excitement! Secure your place in the pride and embark on a journey like no other. With Mufasa Token, the sky's the limit as we pave the way for a brighter, bolder future in the world of decentralized finance.
             </p>
           </div>
         </div>
