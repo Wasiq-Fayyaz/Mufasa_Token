@@ -19,7 +19,7 @@ export default function Footer() {
       <a href="https://x.com/MUFASABASE?t=95x31MFD8TMVccZnXcLvxg&s=09" target="_blank">
           <FaXTwitter className="footer--logos" title="Twitter" />
         </a>
-        <a href="https://t.me/MufasaBase" target="_blank">
+        <a href="https://t.me/MufasaPortal" target="_blank">
           <LiaTelegramPlane className="footer--logos" title="Telegram" />
         </a>
         <a href="https://medium.com/@Mufasa_Base">
