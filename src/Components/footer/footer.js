@@ -13,7 +13,7 @@ export default function Footer() {
         <img src={logo_text} alt="404" className="logo-letter"></img>
       </div>
       <div className="container--2">
-        <small>Copyright © 2024 Mufasa Base. All rights reserved.</small>
+        <small>Copyright © 2024 Mufasa Token. All rights reserved.</small>
       </div>
       <div className="container--3">
       <a href="https://x.com/MUFASABASE?t=95x31MFD8TMVccZnXcLvxg&s=09" target="_blank">
