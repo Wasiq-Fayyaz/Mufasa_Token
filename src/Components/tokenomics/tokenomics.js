@@ -49,7 +49,7 @@ export default function Tokenomics() {
           </img>
 
           <p className="text-break">
-            CA<br></br>0x56051A373346985f367a1E54FD1f738606065Ad6
+            CA<br></br>0x2351C7Be7D1714b02213673e1eFF8b3468B8fC26
           </p>
         </div>
       </div>
