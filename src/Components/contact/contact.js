@@ -4,6 +4,7 @@ import Typewriter from "typewriter-effect";
 import { FaXTwitter } from "react-icons/fa6";
 import { LiaTelegramPlane } from "react-icons/lia";
 import { FaMedium } from "react-icons/fa6";
+import dextools from "../../Image/dex.png"
 
 
 export default function Contact() {
@@ -57,7 +58,7 @@ export default function Contact() {
         </a>
         {/* <a href="/">
           {" "}
-          <img src={etherscan} alt="404" className="social--media--logos" title="Chart" ></img>
+          <img src={dextools} alt="dextools" className="social--media--logos" title="Chart" ></img>
         </a> */}
       </div>
     </secton>
