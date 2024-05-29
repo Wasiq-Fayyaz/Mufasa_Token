@@ -23,7 +23,7 @@ export default function About() {
             Mufasa Token promises excitement and action, just like the trailer
             for the new movie. Embrace the journey and witness the rise of a new
             king in the crypto jungle <br /> <br /> Join the digital savannah
-            with Mufasa Token on Crypto ETH Chain, where innovation meets
+            with Mufasa Token on Crypto Base Chain, where innovation meets
             opportunity. Enjoy lightning-fast transactions, low fees, and
             top-notch security. Whether you're an experienced investor or new to
             crypto, Mufasa Token is your gateway to decentralized finance.{" "}
