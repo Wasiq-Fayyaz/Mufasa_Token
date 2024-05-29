@@ -4,6 +4,7 @@ import logo_text from "../../Image/mufasa_logo.png";
 import { FaXTwitter } from "react-icons/fa6";
 import { LiaTelegramPlane } from "react-icons/lia";
 import { FaMedium } from "react-icons/fa6";
+import dexTools from "../../Image/dex.png"
 
 export default function Footer() {
   return (
@@ -27,10 +28,7 @@ export default function Footer() {
         </a>
         {/* <a href="/">
           {" "}
-          <img src={etherscan} alt="404" className="footer--logos"></img>
-        </a> */}
-        {/* <a href="/">
-          <BiLogoGmail className="footer--logos" />
+          <img src={dexTools} alt="404" className="footer--logos"></img>
         </a> */}
       </div>
     </footer>
